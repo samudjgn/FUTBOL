@@ -1,0 +1,1 @@
+Este es mi primer repositorio, una tanda de Penaltis hecha en Java. El esqueleto del código es principalmente con lógica de Programación Orientada a Objetos, también se puede observar el uso de HashMap para guardar la información de la plantilla de manera más eficiente. El programa aún se encuentra en desarrollo y con la meta de convertirse en algo mucho más completo.
